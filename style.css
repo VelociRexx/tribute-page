@@ -1,5 +1,8 @@
 body {
-  background-color: rgb(94, 94, 94);
+  background-color: rgb(78, 78, 78);
+  font-family: serif, garamond;
+  margin: auto;
+  width: 450px;
 }
 h1,
 h2 {
@@ -13,14 +16,4 @@ li {
 }
 body {
   font-family: "Times New Roman", Times, serif;
-}
-body {
-  text-align: center;
-}
-#abc {
-  text-align: center;
-}
-ul {
-  text-align: center;
-  list-style-position: inside;
 }
